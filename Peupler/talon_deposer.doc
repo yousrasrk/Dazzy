@@ -1,0 +1,21 @@
+insert into Talon_Cheque values ('T1', 'D1', TO_DATE('20190701','YYYYMMDD'), 'Bleu');
+insert into Talon_Cheque values ('T2', 'D2', TO_DATE('20190801','YYYYMMDD'), 'Rouge');
+insert into Talon_Cheque values ('T3', 'D3', TO_DATE('20190703','YYYYMMDD'), 'Noir');
+insert into Talon_Cheque values ('T4', 'D4', TO_DATE('20190710','YYYYMMDD'), 'Noir');
+insert into Talon_Cheque values ('T5', 'D5', TO_DATE('20190901','YYYYMMDD'), 'Rouge');
+insert into Talon_Cheque values ('T6', 'D1', TO_DATE('20191212','YYYYMMDD'), 'Bleu');
+insert into Talon_Cheque values ('T7', 'D7', TO_DATE('20191111','YYYYMMDD'), 'Bleu');
+insert into Talon_Cheque values ('T8', 'D8', TO_DATE('20190721','YYYYMMDD'), 'Noir');
+insert into Talon_Cheque values ('T9', 'D9', TO_DATE('20190727','YYYYMMDD'), 'Noir');
+insert into Talon_Cheque values ('T10', 'D10', TO_DATE('20191204','YYYYMMDD'), 'Rouge');
+
+insert into Deposer values('K585896', 'C1' ,'S1');
+insert into Deposer values('K757588', 'C2' ,'S1');
+insert into Deposer values('KB364827', 'C3' ,'S2');
+insert into Deposer values('K585896', 'C4' ,'S2');
+insert into Deposer values('L4596321', 'C5' ,'S1');
+insert into Deposer values('L920134', 'C6' ,'S2');
+insert into Deposer values('P3296584', 'C7' ,'S3');
+insert into Deposer values('D920134', 'C8' ,'S3');
+insert into Deposer values('U585896', 'C9' ,'S3');
+insert into Deposer values('L975930', 'C10' ,'S1');
